@@ -1,4 +1,7 @@
 # Ex.No.5-Building-and-Training-a-CNN
+# DATE : 2/11/2026
+# NAME : MEIYAPPAN S
+# REF.NO : 212225080029
 ## Building and Training a CNN: Use a framework like TensorFlow or PyTorch to build and train a CNN
 ## Aim :
 To build and train a CNN 
